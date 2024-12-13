@@ -77,7 +77,7 @@ nav {
 }
 
 .noto-font {
-    font-family: "Noto Sans", serif;
+    font-family: "Noto Sans", sans-serif;
 }
 
 input[type="text"] {
@@ -100,7 +100,6 @@ input[type="text"] {
 
 .input-text {
     font-family: Noto Sans;
-    font-size: 13px;
     font-weight: 400;
     line-height: 15px;
     text-align: left;
